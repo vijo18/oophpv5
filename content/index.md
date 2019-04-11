@@ -6,22 +6,12 @@ Min me-sida i kursen oophp
 
 Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/index.md`.
 
-[FIGURE src="image/me.jpg?w=400&a=4,27,11,0&cf&sharpen" class="right" caption="Bild på mig, ätandes glass och hållandes ett kort på någon jultillställning."]
+[FIGURE src="image/me4.jpg?w=400&a=4,27,11,0&cf&sharpen" class="right" caption="Bild på mig."]
 
-Detta är min me-sida i kursen. Denna sidan innehåller en presentation av mig själv. Underhåll denna sidan under hela kursen och uppdatera den efter hand och behov.
+Hej, Viktor Johansson heter jag 24 år och är från Motala,
+och pluggar kurspaketet Webbprogrammering och databaser. På gymnasiet så pluggade jag Naturvetenskapliga programmet för att få en bra grund och kunna plugga vidare på högskola. Det var under gymnasietiden som jag valde till lite programeringskurser och fastnade för området. Men egentligen så har jag alltid haft ett intresse för datorer. Och har redan innan jag började detta kurspaket jobbat lite grann inom just html/css, men det är inte mycket.
 
-Så, en presentation en bra början. Skriv några ord om dig själv. Jag börjar.
+Som hobbies så är jag intressarat av sport, mestadels fotboll. Har spelat själv i över 10 år men har nu lagt skorna på hyllan. Ett tag lirade jag mycket av dataspelet counter-strike, lyckades att bli så bra så att jag kunde tjäna lite pengar på att spela, men lyckade inte nå hela vägen upp till toppen.
 
-Mitt namn är Mikael Roos. Född och uppvuxen i Bankeryd, Småland, strax utanför Jönköping, i ett villaområde som byggdes upp samtidigt som vi flyttade in där. Jag gillade landhockey och har spelat bandy och hockey samt gått bowlinggymnasiet i Nässjö. Jag har varit städare, diskare, kallskänka, servitör och kock. På ett bananskal landade jag i Ronneby när jag började högskolan 1990 där och nu är jag kvar med fru, barn och så vidare.
 
-Programmering har alltid intresserat mig sedan 13-årsåldern och min första dator var en Spectravideo 328 med bandspelare.
-
-Om jag skall nämna någon hobby, förutom webbprogrammering, så får det bli att bära sten på sommarstugetomten, och det finns sten så det räcker och blir över.
-
-Till och från får jag för mig att börja på lite hobbies, ett år satsade jag på pokerspel, ett annat år var det geocaching, sedan turfing och nu på sistone verkar släktforskning lite spännande. Annars kan jag alltid koda på något av mina opensource-projekt, det finns och blir över.
-
-Vill du läsa mer om vad jag jobbat med så kan du kika på min [Linkedin-profil](https://www.linkedin.com/in/pt90mr/).
-
-Vi syns och hörs i forum och chatt!
-
-/Mikael
+Så nu är det fullt focus att lära mig så mycket om programmering som möjligt, och att så småningom hitta ett arbete inom området.
